@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ed87051-ba09-4841-a380-c869a6fa65cc" name="Changes" comment="" />
+    <list default="true" id="815d2ab5-6d90-45a6-a9ce-c7f7ebdaaaab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="20mfgqEiDZ4GiGjL6Jp8oJRFAkG" />
+  <component name="ProjectId" id="20KkyJs18GB7kyqYERmgwz7u4fo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,19 +24,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ed87051-ba09-4841-a380-c869a6fa65cc" name="Changes" comment="" />
-      <created>1636654797395</created>
+      <changelist id="815d2ab5-6d90-45a6-a9ce-c7f7ebdaaaab" name="Changes" comment="" />
+      <created>1635800919868</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636654797395</updated>
-      <workItem from="1636654798964" duration="2138000" />
-      <workItem from="1637763343469" duration="31000" />
+      <updated>1635800919868</updated>
+      <workItem from="1635800921595" duration="4008000" />
+      <workItem from="1635805516297" duration="40000" />
+      <workItem from="1635853669366" duration="9156000" />
+      <workItem from="1635866459610" duration="63000" />
+      <workItem from="1636299325908" duration="781000" />
+      <workItem from="1637763378903" duration="10148000" />
+      <workItem from="1637774737304" duration="881000" />
+      <workItem from="1637775907531" duration="51000" />
     </task>
     <servers />
   </component>
