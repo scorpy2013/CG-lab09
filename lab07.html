@@ -56,12 +56,6 @@
         }
     }
 
-    function distance(P0, P1, P2){
-        d = Math.abs(-(P2[1] - P0[1])/(P2[0] - P0[0])*P1[0] + P1[1] + (P2[1] - P0[1])/(P2[0] - P0[0])*P0[0] + P0[1])/
-            Math.sqrt((P2[1] - P0[1])/(P2[0] - P0[0])*(P2[1] - P0[1])/(P2[0] - P0[0]) + 1);
-        return d
-    }
-
     function HalfDivizion1(P0, P1, P2){
         distance = Math.abs(-(P2[1] - P0[1])/(P2[0] - P0[0])*P1[0] + P1[1] + (P2[1] - P0[1])/(P2[0] - P0[0])*P0[0] + P0[1])/Math.sqrt((P2[1] - P0[1])/(P2[0] - P0[0])*(P2[1] - P0[1])/(P2[0] - P0[0]) + 1);
         if(distance > 1){
